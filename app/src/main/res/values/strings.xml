@@ -1,0 +1,19 @@
+<!-- Copyright 2018 Google Inc.
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+    http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License. -->
+
+<resources>
+    <string name="app_name">Developer Stories</string>
+    <!-- Break paragraphs without extra spacing, by putting \n at the beginning of next line.-->
+    <string name="bio">Hi, my name is Blake.\n\nI love hunting for fish.\nScouting for honey holes is my specality while fishing.\nThe knowledge obtained while gathering fish from honey holes is the elemination for the need to, \"fish\" as traditionally implied.\n\nI dream of a never ending catch.\nInstantly hooking my fish, over and over and over again!\n\nFinding honey holes means easy fishing and repeatable, quick catches.\n\nIt is one thing to throw a line in the water with various baits, line types and weights added to the pole hoping to catch something.\n\nIt is a totally different event when you know what you are going out for and know what to look for.\nBubbles, still water, wamer than surrounding waters are all telltale signs of a large gathering of similar fish.\n\nMy biggest catch on a fishing trip happened when I was 11 years old.\nFishing in Michigan means (no fly fishing mostly) freshwater fishing! No trolling or long leeds on your fishing line for a deep sea extravaganza. Fresh water has no aligators if your in the right climate temperature also. Mosquitos without malaria is at food chains door step for this one.\n\nSuprisingly to everyone that saw the catch, my Grandfather and I caught 2 shopping bags full of Blue Gills in a two hour sitting!!\nTheir was an easy 75-100 fish from our catch!! These were soon filleted into a bite size portion of meat battered over salted butter for mouth watering appatizer sized portions of not to fishy tasting catch. \nAll free!!\n\nI learned a little know-how, can go a long way.\n\nEspecially when given the proper conditions. Experiencing the success of a big catch on this fishing trip revolutionized the way I look at fishing and life.\n\nIt was just fishing before. Now its the thrill of the hunt + (MOST IMPORTANT) enjoying the spoils of your catch!! I see eating your catch as morally just. If the food is not being wasted to die of natural causes and rot unnattended as a polutant, then I see more salt being the only issue to plan on worrying about. \n\nCombining the proper combination of \"gear\" and \"know how\\ makes for the increased likelyhood of a more successful fishing trip. Come to find out catching the fish is easy when it bites.\n\nIf you have tried fishing before and don\'t like it, I have a bit of advice. Give it one more try and aim for the honey hole fishing spots. After realizing the ease of fishing on a honey hole you will become instantly hooked!\n\nA local tip to my grandfather and some dumb luck changed the entire sport for me. It was a great childhood lesson of preperation and timing.\n</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+    <string name="team">A-Team</string>
+</resources>
